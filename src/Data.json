@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "img": "https://freepngimg.com/thumb/shoes/28172-8-nike-shoes-image.png",
+    "price": 3500
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "img": "https://freepngimg.com/thumb/shoes/27428-5-nike-shoes-transparent-background.png",
+    "price": 4050
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "img": "https://freepngimg.com/thumb/shoes/26230-6-nike-shoes-clipart.png",
+    "price": 2000
+  },
+  {
+    "id": 4,
+    "name": "Product 4",
+    "img": "https://freepngimg.com/thumb/shoes/28116-8-nike-shoes.png",
+    "price": 2500
+  },
+  {
+    "id": 5,
+    "name": "Product 5",
+    "img": "https://freepngimg.com/thumb/shoes/27518-9-nike-shoes-file.png",
+    "price": 3000
+  },
+  {
+    "id": 6,
+    "name": "Product 6",
+    "img": "https://freepngimg.com/thumb/shoes/27695-7-sneaker-transparent.png",
+    "price": 8500
+  }
+]
